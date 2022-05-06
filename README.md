@@ -2,7 +2,8 @@
 
 
 added profiles for
- -/Druid/Feral/Cat_DPS_Questing_Quickfights.txt
+
+-/Druid/Feral/Cat_DPS_Questing_Quickfights.txt
 - /Druid/Feral/Cat_DPS_Raid_Dungeon.txt
 - /Druid/Feral/tbc-60-bear-form-swipe.txt
 - /Druid/Feral/tbc-60-cat-form-raid.txt
